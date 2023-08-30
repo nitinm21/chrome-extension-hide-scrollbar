@@ -11,3 +11,8 @@ To use this extension:
 
 Contact me on nitinmurali21@gmail.com if you run into any issues.
 
+### Read this if you're a macOS user:
+
+Please go to System Settings -> Appearance -> Show scroll bars -> Always
+
+The extension will work only when the above setting is configured.
